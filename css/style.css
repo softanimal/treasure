@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+  font-family: "PT sans", sans-serif;
+}
+
+body {
+  color: #000000;
+  background-image: url("../images/map.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  width: 80%;
+}
+
+p {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.paragraph {
+  margin-top: 25%;
+  margin-left: 20%;
+  background-color: #ffffff;
+  padding: 2%;
+}
+
+.counter {
+  margin-top: 3%;
+margin-left: 20%;
+margin-bottom: 20%;
+  padding: 2%;
+background-color: #ffffff;
+}
+
+.clue {
+  padding: 3%;
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-bottom: 2%;
+  background-color: #ffffff;
+}
