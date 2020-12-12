@@ -4,7 +4,7 @@
 
 html {
   font-size: 10px;
-  font-family: "PT sans", sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
 }
 
 body {
@@ -44,6 +44,16 @@ background-color: #ffffff;
   margin-left: 20%;
   margin-bottom: 2%;
   background-color: #ffffff;
+}
+
+.kiss img {
+  width: 100%;
+  height: auto;
+}
+
+.kiss {
+  width: 8%;
+  height: auto;
 }
 
 /* ----------- iPhone 6, 6S, 7 and 8 ----------- */
