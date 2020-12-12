@@ -45,3 +45,36 @@ background-color: #ffffff;
   margin-bottom: 2%;
   background-color: #ffffff;
 }
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+    .paragraph {
+      margin-top: 25%;
+      margin-left: 20%;
+      background-color: #ffffff;
+      padding: 5%;
+    }
+
+    .counter {
+      margin-top: 3%;
+    margin-left: 20%;
+    margin-bottom: 20%;
+      padding: 5%;
+    background-color: #ffffff;
+    }
+
+    .clue {
+      padding: 5%;
+      margin-top: 5%;
+      margin-left: 20%;
+      margin-bottom: 2%;
+      background-color: #ffffff;
+    }
+
+}
