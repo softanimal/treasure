@@ -15,8 +15,7 @@ body {
 }
 
 .container {
-  width: auto;
-  height: auto;
+  width: 80%;
 }
 
 p {
